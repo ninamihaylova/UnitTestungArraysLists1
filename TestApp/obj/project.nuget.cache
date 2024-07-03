@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/y5f7UlFmLWI/cy7ObZUMk7oB2HKA9BzfYdROf+9TLB9HT/pZunff5fsRKaCLd8Oope6/npcLBBxmpxV9257w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ninag\\Desktop\\07.2.Resurces-Unit-Testng-Arrays-Lists (1)\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ninag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ninag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ninag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
